@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/SnowMan/Documents/REBU/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="df88b46e4f16345b0223750e6026e9bed98158d7">
+        <dex dex="/Users/SnowMan/Documents/REBU/platforms/android/build/intermediates/pre-dexed/release/CordovaLib-unspecified-release_0598aebbf94d8d123c8184e8ae0557a104d2a8e2.jar" />
+    </item>
+    <item
+        jar="/Users/SnowMan/Documents/REBU/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="eef06c5bd7b7914f5e17f01cb1597a30f379baa0">
+        <dex dex="/Users/SnowMan/Documents/REBU/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_8e16956364d12473af3625d9aa339973514cbf85.jar" />
+    </item>
+
+</items>

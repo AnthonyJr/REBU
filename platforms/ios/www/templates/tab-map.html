@@ -1,0 +1,32 @@
+<ion-view view-title="Map">
+  <ion-content ng-init="init()">
+  <body ng-controller="MapCtrl" ng-init="init()">
+  		<style>
+  			#pac-input, #pac-input2 {
+  				background-color: #fff;
+  				font-family: Roboto; 
+  				font-size: 15px;
+  				font-weight: 300;
+  				margin-left: 12px;
+          width: 75%;
+
+        .controls {
+          margin-top: 10px;
+          border: 1px solid transparent;
+          border-radius: 2px 0 0 2px;
+          box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          height: 32px;
+          outline: none;
+          box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+      }
+  			}
+  		</style>
+      <div id="right-panel"></div>
+  	 	<div id="map" data-tap-disabled="true"></div>
+  	 	<!-- <input type="text" id="pac-input" class="controls" placeholder="Current Location"> -->
+  	 	<input type="text" id="pac-input2" class="controls" placeholder="Enter a destination">
+
+  </body>
+  </ion-content>
+</ion-view>
